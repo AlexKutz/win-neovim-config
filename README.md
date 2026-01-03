@@ -1,0 +1,1 @@
+Windows: ~/AppData/Local/nvim
